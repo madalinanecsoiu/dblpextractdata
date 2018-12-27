@@ -43,6 +43,7 @@ public class DblpPersonService {
         if(document == null)
             return null;
 
+        //parser
         document.getDocumentElement().normalize();
         NodeList authors = document.getElementsByTagName("author");
 
@@ -55,10 +56,10 @@ public class DblpPersonService {
             persons.add(p);
 
         }
+        //parser
         for (Person p : persons) {
             System.out.println(p.getName() + " " + p.getKey());
         }
-        
         return persons;
     }
 
