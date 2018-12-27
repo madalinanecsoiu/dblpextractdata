@@ -1,0 +1,9 @@
+rest\PublicationController.class
+service\DblpPublicationService.class
+rest\PublicationControllerImpl.class
+service\DblpPersonService.class
+rest\PersonController.class
+rest\PersonControllerImpl.class
+service\PersonService.class
+model\Person.class
+service\DblpPersonInfoService.class
