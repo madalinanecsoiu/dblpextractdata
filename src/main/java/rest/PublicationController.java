@@ -1,6 +1,6 @@
 package rest;
 
-public interface PublicationController {
+public class PublicationController {
 
 
 }

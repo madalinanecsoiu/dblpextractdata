@@ -63,8 +63,8 @@ public class DblpPersonService {
         return persons;
     }
 
-    public static void main(String[] args) {
-        DblpPersonService dblp =  new DblpPersonService();
-        dblp.getAuthors("Ley", "Michael");
-    }
+//    public static void main(String[] args) {
+//        DblpPersonService dblp =  new DblpPersonService();
+//        dblp.getAuthors("Ley", "Michael");
+//    }
 }

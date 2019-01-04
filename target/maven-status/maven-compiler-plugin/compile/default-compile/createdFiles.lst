@@ -1,6 +1,8 @@
 rest\PublicationController.class
 service\DblpPublicationService.class
+model\Publication.class
 rest\PublicationControllerImpl.class
+SpringBootWebApplication.class
 service\DblpPersonService.class
 rest\PersonController.class
 rest\PersonControllerImpl.class

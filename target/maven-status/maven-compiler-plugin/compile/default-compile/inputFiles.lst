@@ -1,8 +1,10 @@
 D:\workspace\dblpextractdata\src\main\java\rest\PersonController.java
 D:\workspace\dblpextractdata\src\main\java\rest\PersonControllerImpl.java
+D:\workspace\dblpextractdata\src\main\java\SpringBootWebApplication.java
 D:\workspace\dblpextractdata\src\main\java\service\PersonService.java
 D:\workspace\dblpextractdata\src\main\java\service\DblpPersonService.java
 D:\workspace\dblpextractdata\src\main\java\rest\PublicationControllerImpl.java
+D:\workspace\dblpextractdata\src\main\java\model\Publication.java
 D:\workspace\dblpextractdata\src\main\java\service\DblpPublicationService.java
 D:\workspace\dblpextractdata\src\main\java\model\Person.java
 D:\workspace\dblpextractdata\src\main\java\rest\PublicationController.java

@@ -62,10 +62,10 @@ public class DblpPersonInfoService {
         return listofpub;
     }
 
-    public static void main(String[] args) {
-        DblpPersonInfoService dblp = new DblpPersonInfoService();
-        dblp.getPublications("l/Leyer:Michael");
-    }
+//    public static void main(String[] args) {
+//        DblpPersonInfoService dblp = new DblpPersonInfoService();
+//        dblp.getPublications("l/Leyer:Michael");
+//    }
 
 
 }
